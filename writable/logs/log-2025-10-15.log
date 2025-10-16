@@ -1,0 +1,309 @@
+CRITICAL - 2025-10-15 21:06:29 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 22.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:06:51 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 22.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:07:01 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 22.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:15:36 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:15:39 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:15:48 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:15:50 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:16:47 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(13): view('upload_form')
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:18:09 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(29): view('upload_form', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:18:11 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(29): view('upload_form', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 21:21:27 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(29): view('upload_form', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 21:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 21:24:27 --> Error: Call to undefined function form_open_multipart()
+in APPPATH/Views/upload_form.php on line 32.
+ 1 SYSTEMPATH/View/View.php(228): include()
+ 2 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 4 APPPATH/Controllers/PdfController.php(29): view('upload_form', [...])
+ 5 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 6 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 7 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 21:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:41:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 21:49:20 --> CodeIgniter\HTTP\Exceptions\HTTPException: Could not move file "phpnSBErp" to "/opt/lampp/htdocs/lectorPDFs/writable/uploads/pdfs/". Reason: 
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 152.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(152): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('phpnSBErp', '/opt/lampp/htdocs/lectorPDFs/writable/uploads/pdfs/', '')
+ 2 APPPATH/Controllers/PdfController.php(54): CodeIgniter\HTTP\Files\UploadedFile->move('/opt/lampp/htdocs/lectorPDFs/writable/uploads/pdfs/', '1760564960_1b7250c88a93c23221a8.pdf')
+ 3 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->upload()
+ 4 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 5 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 21:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 21:58:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:05:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 22:08:43 --> Error: Call to undefined method Shuchkin\SimpleXLSX::getRows()
+in APPPATH/Controllers/PdfController.php on line 87.
+ 1 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->upload()
+ 2 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 22:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:11:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 22:13:58 --> ErrorException: Undefined index: file_type
+in APPPATH/Views/upload_form.php on line 222.
+ 1 APPPATH/Views/upload_form.php(222): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: file_type', '/opt/lampp/htdocs/lectorPDFs/app/Views/upload_form.php', 222, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/lectorPDFs/app/Views/upload_form.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 5 APPPATH/Controllers/PdfController.php(44): view('upload_form', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 22:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 22:15:16 --> ErrorException: Undefined index: file_type
+in APPPATH/Views/upload_form.php on line 269.
+ 1 APPPATH/Views/upload_form.php(269): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: file_type', '/opt/lampp/htdocs/lectorPDFs/app/Views/upload_form.php', 269, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/lectorPDFs/app/Views/upload_form.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 5 APPPATH/Controllers/PdfController.php(44): view('upload_form', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 22:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 22:18:06 --> ErrorException: Undefined index: file_type
+in APPPATH/Views/upload_form.php on line 179.
+ 1 APPPATH/Views/upload_form.php(179): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: file_type', '/opt/lampp/htdocs/lectorPDFs/app/Views/upload_form.php', 179, [...])
+ 2 SYSTEMPATH/View/View.php(228): include('/opt/lampp/htdocs/lectorPDFs/app/Views/upload_form.php')
+ 3 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1178): CodeIgniter\View\View->render('upload_form', [], true)
+ 5 APPPATH/Controllers/PdfController.php(44): view('upload_form', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 22:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:19:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-15 22:24:33 --> Error: Class 'App\Models\PdfModel' not found
+in APPPATH/Controllers/PdfController.php on line 129.
+ 1 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\PdfController->view('1760566782_f30ea41a68504637a657.xlsx')
+ 2 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 22:27:27 --> ErrorException: Undefined index: file_type
+in APPPATH/Controllers/FileController.php on line 108.
+ 1 APPPATH/Controllers/FileController.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: file_type', '/opt/lampp/htdocs/lectorPDFs/app/Controllers/FileController.php', 108, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\FileController->view('1760566782_f30ea41a68504637a657.xlsx')
+ 3 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileController))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 22:27:49 --> ErrorException: Undefined index: file_type
+in APPPATH/Controllers/FileController.php on line 108.
+ 1 APPPATH/Controllers/FileController.php(108): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: file_type', '/opt/lampp/htdocs/lectorPDFs/app/Controllers/FileController.php', 108, [...])
+ 2 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\FileController->view('1760566752_04ae377286372c771993.pdf')
+ 3 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileController))
+ 4 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2025-10-15 22:29:41 --> mysqli_sql_exception: Unknown column 'file_type' in 'field list' in /opt/lampp/htdocs/lectorPDFs/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /opt/lampp/htdocs/lectorPDFs/system/Database/MySQLi/Connection.php(306): mysqli->query('INSERT INTO `up...', 0)
+#1 /opt/lampp/htdocs/lectorPDFs/system/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `up...')
+#2 /opt/lampp/htdocs/lectorPDFs/system/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `up...')
+#3 /opt/lampp/htdocs/lectorPDFs/system/Database/BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `up...', Array, false)
+#4 /opt/lampp/htdocs/lectorPDFs/system/Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+#5 /opt/lampp/htdocs/lectorPDFs/system/BaseModel.php(805): CodeIgniter\Model->doInsert(Array)
+#6 /opt/lampp/htdocs/lectorPDFs/system/Model.php(749): CodeIgniter\BaseModel->insert(Array, true)
+#7 /opt/lampp/htdocs/lectorPDFs/app/Controllers/FileController.php(78): CodeIgniter\Model->insert(Array)
+#8 /opt/lampp/htdocs/lectorPDFs/system/CodeIgniter.php(943): App\Controllers\FileController->upload()
+#9 /opt/lampp/htdocs/lectorPDFs/system/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileController))
+#10 /opt/lampp/htdocs/lectorPDFs/system/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 /opt/lampp/htdocs/lectorPDFs/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2025-10-15 22:29:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'file_type' in 'field list'
+in SYSTEMPATH/Database/BaseConnection.php on line 647.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (:file_name:, :stored_name:, :file_type:, :extracted_text:)', [...], false)
+ 2 SYSTEMPATH/Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH/BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH/Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH/Controllers/FileController.php(78): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\FileController->upload()
+ 7 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileController))
+ 8 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 22:29:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'file_type' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 311.
+ 1 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (\'cif.pdf\', \'1760567381_ba3765797eb74fc3fb3d.pdf\', \'pdf\', \'Página  [1] de [2] \\nCÉDULA DE IDENTIFICACIÓN FISCAL \\nCASA9806281DA\\nRegistro Federal de Contribuyentes\\nANGEL ARMANDO CASANOVA \\nSANCHEZ\\nNombre, denominación o razón \\nsocial\\nidCIF: 17100478006\\nVALIDA TU INFORMACIÓN \\nFISCAL\\nCONSTANCIA DE SITUACIÓN FISCAL\\nLugar y Fecha de Emisión\\nLA PAZ , MEXICO A 17 DE SEPTIEMBRE DE 2025\\nCASA9806281DA\\nDatos de Identificación del Contribuyente: \\nRFC:	CASA9806281DA\\nCURP:	CASA980628HYNSNN07\\nNombre(s):	ANGELARMANDO\\nPrimerApellido:	CASANOVA\\nSegundoApellido:	SANCHEZ\\nFechainiciodeoperaciones:	22DEOCTUBREDE2017\\nEstatusenelpadrón:	ACTIVO\\nFechadeúltimocambiodeestado:	22DEOCTUBREDE2017\\nNombreComercial:	ANGELARMANDO\\nDatos del domicilio registrado \\nCódigoPostal:56525	TipodeVialidad:CALLEJÓN(CJON.)\\nNombredeVialidad:MARIANOMATAMORORS	NúmeroExterior:2\\nNúmeroInterior:S2	NombredelaColonia:LAMAGDALENA ATLICPAC\\nNombredelaLocalidad:LAMAGDALENA ATLICPAC	NombredelMunicipiooDemarcaciónTerritorial:LAPAZ\\nNombredelaEntidadFederativa:MEXICO	EntreCalle:ZARAGOZA\\n\\nPágina  [2] de [2] \\nYCalle:RIOBRAVO\\nActividades Económicas: \\nOrden	Actividad Económica	PorcentajeFecha InicioFecha Fin\\n1 Asalariado	100	22/10/2017\\nRegímenes:  \\nRégimen	Fecha InicioFecha Fin\\nRégimen de Sueldos y Salarios e Ingresos Asimilados a Salarios	22/10/2017\\nSusdatospersonalessonincorporadosyprotegidosenlossistemasdelSAT,deconformidadconlosLineamientosdeProteccióndeDatos\\nPersonalesycondiversasdisposicionesfiscalesylegalessobreconfidencialidadyproteccióndedatos,afindeejercerlasfacultades\\nconferidasalaautoridadfiscal.\\nSideseamodificarocorregirsusdatospersonales,puedeacudiracualquierMódulodeServiciosTributariosy/oatravésdeladirección\\nhttp://sat.gob.mx\\n\\"Lacorrupcióntieneconsecuencias¡denúnciala!Siconocesalgúnposibleactodecorrupciónodelitopresentaunaquejaodenunciaatravés\\nde:www.sat.gob.mx,denuncias@sat.gob.mx,desdeMéxico:(55)88522222,desdeelextranjero:+5588522222,SATmóvilowww.gob.mx/sfp\\".\\nCadenaOriginalSello: ||2025/09/17 16:48:37|CASA9806281DA|CONSTANCIA DE SITUACIÓN \\nFISCAL|200001088888800000031|U2FsdGVkX18ua40LFrE5zt6bDp4d+WsHP2RRGZhcNmA=||\\nSelloDigital:	Z49G74gqoITga0U08OmncStZtBVprVJG1qdGnxN56+5oo0YYCyF1Tw8OGSsoFufV2k/OoQ9AcVpSkc661AOU8\\nVULw+IS2Ce6G3UL272hcigANPKjYlUMNdgnXi18AfizJ4RV6i6hYjTqAHiLycx+xHDk2dlKySqi/pBgrQxqpwg=\')')
+ 2 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (\'cif.pdf\', \'1760567381_ba3765797eb74fc3fb3d.pdf\', \'pdf\', \'Página  [1] de [2] \\nCÉDULA DE IDENTIFICACIÓN FISCAL \\nCASA9806281DA\\nRegistro Federal de Contribuyentes\\nANGEL ARMANDO CASANOVA \\nSANCHEZ\\nNombre, denominación o razón \\nsocial\\nidCIF: 17100478006\\nVALIDA TU INFORMACIÓN \\nFISCAL\\nCONSTANCIA DE SITUACIÓN FISCAL\\nLugar y Fecha de Emisión\\nLA PAZ , MEXICO A 17 DE SEPTIEMBRE DE 2025\\nCASA9806281DA\\nDatos de Identificación del Contribuyente: \\nRFC:	CASA9806281DA\\nCURP:	CASA980628HYNSNN07\\nNombre(s):	ANGELARMANDO\\nPrimerApellido:	CASANOVA\\nSegundoApellido:	SANCHEZ\\nFechainiciodeoperaciones:	22DEOCTUBREDE2017\\nEstatusenelpadrón:	ACTIVO\\nFechadeúltimocambiodeestado:	22DEOCTUBREDE2017\\nNombreComercial:	ANGELARMANDO\\nDatos del domicilio registrado \\nCódigoPostal:56525	TipodeVialidad:CALLEJÓN(CJON.)\\nNombredeVialidad:MARIANOMATAMORORS	NúmeroExterior:2\\nNúmeroInterior:S2	NombredelaColonia:LAMAGDALENA ATLICPAC\\nNombredelaLocalidad:LAMAGDALENA ATLICPAC	NombredelMunicipiooDemarcaciónTerritorial:LAPAZ\\nNombredelaEntidadFederativa:MEXICO	EntreCalle:ZARAGOZA\\n\\nPágina  [2] de [2] \\nYCalle:RIOBRAVO\\nActividades Económicas: \\nOrden	Actividad Económica	PorcentajeFecha InicioFecha Fin\\n1 Asalariado	100	22/10/2017\\nRegímenes:  \\nRégimen	Fecha InicioFecha Fin\\nRégimen de Sueldos y Salarios e Ingresos Asimilados a Salarios	22/10/2017\\nSusdatospersonalessonincorporadosyprotegidosenlossistemasdelSAT,deconformidadconlosLineamientosdeProteccióndeDatos\\nPersonalesycondiversasdisposicionesfiscalesylegalessobreconfidencialidadyproteccióndedatos,afindeejercerlasfacultades\\nconferidasalaautoridadfiscal.\\nSideseamodificarocorregirsusdatospersonales,puedeacudiracualquierMódulodeServiciosTributariosy/oatravésdeladirección\\nhttp://sat.gob.mx\\n\\"Lacorrupcióntieneconsecuencias¡denúnciala!Siconocesalgúnposibleactodecorrupciónodelitopresentaunaquejaodenunciaatravés\\nde:www.sat.gob.mx,denuncias@sat.gob.mx,desdeMéxico:(55)88522222,desdeelextranjero:+5588522222,SATmóvilowww.gob.mx/sfp\\".\\nCadenaOriginalSello: ||2025/09/17 16:48:37|CASA9806281DA|CONSTANCIA DE SITUACIÓN \\nFISCAL|200001088888800000031|U2FsdGVkX18ua40LFrE5zt6bDp4d+WsHP2RRGZhcNmA=||\\nSelloDigital:	Z49G74gqoITga0U08OmncStZtBVprVJG1qdGnxN56+5oo0YYCyF1Tw8OGSsoFufV2k/OoQ9AcVpSkc661AOU8\\nVULw+IS2Ce6G3UL272hcigANPKjYlUMNdgnXi18AfizJ4RV6i6hYjTqAHiLycx+xHDk2dlKySqi/pBgrQxqpwg=\')')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (:file_name:, :stored_name:, :file_type:, :extracted_text:)', [...], false)
+ 4 SYSTEMPATH/Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH/BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH/Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH/Controllers/FileController.php(78): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\FileController->upload()
+ 9 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileController))
+10 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2025-10-15 22:29:41 --> [Caused by] mysqli_sql_exception: Unknown column 'file_type' in 'field list'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 306.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(306): mysqli->query('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (\'cif.pdf\', \'1760567381_ba3765797eb74fc3fb3d.pdf\', \'pdf\', \'Página  [1] de [2] \\nCÉDULA DE IDENTIFICACIÓN FISCAL \\nCASA9806281DA\\nRegistro Federal de Contribuyentes\\nANGEL ARMANDO CASANOVA \\nSANCHEZ\\nNombre, denominación o razón \\nsocial\\nidCIF: 17100478006\\nVALIDA TU INFORMACIÓN \\nFISCAL\\nCONSTANCIA DE SITUACIÓN FISCAL\\nLugar y Fecha de Emisión\\nLA PAZ , MEXICO A 17 DE SEPTIEMBRE DE 2025\\nCASA9806281DA\\nDatos de Identificación del Contribuyente: \\nRFC:	CASA9806281DA\\nCURP:	CASA980628HYNSNN07\\nNombre(s):	ANGELARMANDO\\nPrimerApellido:	CASANOVA\\nSegundoApellido:	SANCHEZ\\nFechainiciodeoperaciones:	22DEOCTUBREDE2017\\nEstatusenelpadrón:	ACTIVO\\nFechadeúltimocambiodeestado:	22DEOCTUBREDE2017\\nNombreComercial:	ANGELARMANDO\\nDatos del domicilio registrado \\nCódigoPostal:56525	TipodeVialidad:CALLEJÓN(CJON.)\\nNombredeVialidad:MARIANOMATAMORORS	NúmeroExterior:2\\nNúmeroInterior:S2	NombredelaColonia:LAMAGDALENA ATLICPAC\\nNombredelaLocalidad:LAMAGDALENA ATLICPAC	NombredelMunicipiooDemarcaciónTerritorial:LAPAZ\\nNombredelaEntidadFederativa:MEXICO	EntreCalle:ZARAGOZA\\n\\nPágina  [2] de [2] \\nYCalle:RIOBRAVO\\nActividades Económicas: \\nOrden	Actividad Económica	PorcentajeFecha InicioFecha Fin\\n1 Asalariado	100	22/10/2017\\nRegímenes:  \\nRégimen	Fecha InicioFecha Fin\\nRégimen de Sueldos y Salarios e Ingresos Asimilados a Salarios	22/10/2017\\nSusdatospersonalessonincorporadosyprotegidosenlossistemasdelSAT,deconformidadconlosLineamientosdeProteccióndeDatos\\nPersonalesycondiversasdisposicionesfiscalesylegalessobreconfidencialidadyproteccióndedatos,afindeejercerlasfacultades\\nconferidasalaautoridadfiscal.\\nSideseamodificarocorregirsusdatospersonales,puedeacudiracualquierMódulodeServiciosTributariosy/oatravésdeladirección\\nhttp://sat.gob.mx\\n\\"Lacorrupcióntieneconsecuencias¡denúnciala!Siconocesalgúnposibleactodecorrupciónodelitopresentaunaquejaodenunciaatravés\\nde:www.sat.gob.mx,denuncias@sat.gob.mx,desdeMéxico:(55)88522222,desdeelextranjero:+5588522222,SATmóvilowww.gob.mx/sfp\\".\\nCadenaOriginalSello: ||2025/09/17 16:48:37|CASA9806281DA|CONSTANCIA DE SITUACIÓN \\nFISCAL|200001088888800000031|U2FsdGVkX18ua40LFrE5zt6bDp4d+WsHP2RRGZhcNmA=||\\nSelloDigital:	Z49G74gqoITga0U08OmncStZtBVprVJG1qdGnxN56+5oo0YYCyF1Tw8OGSsoFufV2k/OoQ9AcVpSkc661AOU8\\nVULw+IS2Ce6G3UL272hcigANPKjYlUMNdgnXi18AfizJ4RV6i6hYjTqAHiLycx+xHDk2dlKySqi/pBgrQxqpwg=\')', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (\'cif.pdf\', \'1760567381_ba3765797eb74fc3fb3d.pdf\', \'pdf\', \'Página  [1] de [2] \\nCÉDULA DE IDENTIFICACIÓN FISCAL \\nCASA9806281DA\\nRegistro Federal de Contribuyentes\\nANGEL ARMANDO CASANOVA \\nSANCHEZ\\nNombre, denominación o razón \\nsocial\\nidCIF: 17100478006\\nVALIDA TU INFORMACIÓN \\nFISCAL\\nCONSTANCIA DE SITUACIÓN FISCAL\\nLugar y Fecha de Emisión\\nLA PAZ , MEXICO A 17 DE SEPTIEMBRE DE 2025\\nCASA9806281DA\\nDatos de Identificación del Contribuyente: \\nRFC:	CASA9806281DA\\nCURP:	CASA980628HYNSNN07\\nNombre(s):	ANGELARMANDO\\nPrimerApellido:	CASANOVA\\nSegundoApellido:	SANCHEZ\\nFechainiciodeoperaciones:	22DEOCTUBREDE2017\\nEstatusenelpadrón:	ACTIVO\\nFechadeúltimocambiodeestado:	22DEOCTUBREDE2017\\nNombreComercial:	ANGELARMANDO\\nDatos del domicilio registrado \\nCódigoPostal:56525	TipodeVialidad:CALLEJÓN(CJON.)\\nNombredeVialidad:MARIANOMATAMORORS	NúmeroExterior:2\\nNúmeroInterior:S2	NombredelaColonia:LAMAGDALENA ATLICPAC\\nNombredelaLocalidad:LAMAGDALENA ATLICPAC	NombredelMunicipiooDemarcaciónTerritorial:LAPAZ\\nNombredelaEntidadFederativa:MEXICO	EntreCalle:ZARAGOZA\\n\\nPágina  [2] de [2] \\nYCalle:RIOBRAVO\\nActividades Económicas: \\nOrden	Actividad Económica	PorcentajeFecha InicioFecha Fin\\n1 Asalariado	100	22/10/2017\\nRegímenes:  \\nRégimen	Fecha InicioFecha Fin\\nRégimen de Sueldos y Salarios e Ingresos Asimilados a Salarios	22/10/2017\\nSusdatospersonalessonincorporadosyprotegidosenlossistemasdelSAT,deconformidadconlosLineamientosdeProteccióndeDatos\\nPersonalesycondiversasdisposicionesfiscalesylegalessobreconfidencialidadyproteccióndedatos,afindeejercerlasfacultades\\nconferidasalaautoridadfiscal.\\nSideseamodificarocorregirsusdatospersonales,puedeacudiracualquierMódulodeServiciosTributariosy/oatravésdeladirección\\nhttp://sat.gob.mx\\n\\"Lacorrupcióntieneconsecuencias¡denúnciala!Siconocesalgúnposibleactodecorrupciónodelitopresentaunaquejaodenunciaatravés\\nde:www.sat.gob.mx,denuncias@sat.gob.mx,desdeMéxico:(55)88522222,desdeelextranjero:+5588522222,SATmóvilowww.gob.mx/sfp\\".\\nCadenaOriginalSello: ||2025/09/17 16:48:37|CASA9806281DA|CONSTANCIA DE SITUACIÓN \\nFISCAL|200001088888800000031|U2FsdGVkX18ua40LFrE5zt6bDp4d+WsHP2RRGZhcNmA=||\\nSelloDigital:	Z49G74gqoITga0U08OmncStZtBVprVJG1qdGnxN56+5oo0YYCyF1Tw8OGSsoFufV2k/OoQ9AcVpSkc661AOU8\\nVULw+IS2Ce6G3UL272hcigANPKjYlUMNdgnXi18AfizJ4RV6i6hYjTqAHiLycx+xHDk2dlKySqi/pBgrQxqpwg=\')')
+ 3 SYSTEMPATH/Database/BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (\'cif.pdf\', \'1760567381_ba3765797eb74fc3fb3d.pdf\', \'pdf\', \'Página  [1] de [2] \\nCÉDULA DE IDENTIFICACIÓN FISCAL \\nCASA9806281DA\\nRegistro Federal de Contribuyentes\\nANGEL ARMANDO CASANOVA \\nSANCHEZ\\nNombre, denominación o razón \\nsocial\\nidCIF: 17100478006\\nVALIDA TU INFORMACIÓN \\nFISCAL\\nCONSTANCIA DE SITUACIÓN FISCAL\\nLugar y Fecha de Emisión\\nLA PAZ , MEXICO A 17 DE SEPTIEMBRE DE 2025\\nCASA9806281DA\\nDatos de Identificación del Contribuyente: \\nRFC:	CASA9806281DA\\nCURP:	CASA980628HYNSNN07\\nNombre(s):	ANGELARMANDO\\nPrimerApellido:	CASANOVA\\nSegundoApellido:	SANCHEZ\\nFechainiciodeoperaciones:	22DEOCTUBREDE2017\\nEstatusenelpadrón:	ACTIVO\\nFechadeúltimocambiodeestado:	22DEOCTUBREDE2017\\nNombreComercial:	ANGELARMANDO\\nDatos del domicilio registrado \\nCódigoPostal:56525	TipodeVialidad:CALLEJÓN(CJON.)\\nNombredeVialidad:MARIANOMATAMORORS	NúmeroExterior:2\\nNúmeroInterior:S2	NombredelaColonia:LAMAGDALENA ATLICPAC\\nNombredelaLocalidad:LAMAGDALENA ATLICPAC	NombredelMunicipiooDemarcaciónTerritorial:LAPAZ\\nNombredelaEntidadFederativa:MEXICO	EntreCalle:ZARAGOZA\\n\\nPágina  [2] de [2] \\nYCalle:RIOBRAVO\\nActividades Económicas: \\nOrden	Actividad Económica	PorcentajeFecha InicioFecha Fin\\n1 Asalariado	100	22/10/2017\\nRegímenes:  \\nRégimen	Fecha InicioFecha Fin\\nRégimen de Sueldos y Salarios e Ingresos Asimilados a Salarios	22/10/2017\\nSusdatospersonalessonincorporadosyprotegidosenlossistemasdelSAT,deconformidadconlosLineamientosdeProteccióndeDatos\\nPersonalesycondiversasdisposicionesfiscalesylegalessobreconfidencialidadyproteccióndedatos,afindeejercerlasfacultades\\nconferidasalaautoridadfiscal.\\nSideseamodificarocorregirsusdatospersonales,puedeacudiracualquierMódulodeServiciosTributariosy/oatravésdeladirección\\nhttp://sat.gob.mx\\n\\"Lacorrupcióntieneconsecuencias¡denúnciala!Siconocesalgúnposibleactodecorrupciónodelitopresentaunaquejaodenunciaatravés\\nde:www.sat.gob.mx,denuncias@sat.gob.mx,desdeMéxico:(55)88522222,desdeelextranjero:+5588522222,SATmóvilowww.gob.mx/sfp\\".\\nCadenaOriginalSello: ||2025/09/17 16:48:37|CASA9806281DA|CONSTANCIA DE SITUACIÓN \\nFISCAL|200001088888800000031|U2FsdGVkX18ua40LFrE5zt6bDp4d+WsHP2RRGZhcNmA=||\\nSelloDigital:	Z49G74gqoITga0U08OmncStZtBVprVJG1qdGnxN56+5oo0YYCyF1Tw8OGSsoFufV2k/OoQ9AcVpSkc661AOU8\\nVULw+IS2Ce6G3UL272hcigANPKjYlUMNdgnXi18AfizJ4RV6i6hYjTqAHiLycx+xHDk2dlKySqi/pBgrQxqpwg=\')')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(2307): CodeIgniter\Database\BaseConnection->query('INSERT INTO `uploaded_pdfs` (`file_name`, `stored_name`, `file_type`, `extracted_text`) VALUES (:file_name:, :stored_name:, :file_type:, :extracted_text:)', [...], false)
+ 5 SYSTEMPATH/Model.php(327): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH/BaseModel.php(805): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH/Model.php(749): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH/Controllers/FileController.php(78): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH/CodeIgniter.php(943): App\Controllers\FileController->upload()
+10 SYSTEMPATH/CodeIgniter.php(503): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FileController))
+11 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2025-10-15 22:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-15 22:45:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
